@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ana.mafecchio\\source\\repos\\Patinhas_Peludas\\",
+  "WorkspaceRootPath": "C:\\Users\\ana.mafecchio\\Documents\\GitHub\\Patinhas_Peludas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{808EE8C3-9298-4D98-A2CB-3B7C1086094A}|Patinhas_Peludas\\Patinhas_Peludas.csproj|c:\\users\\ana.mafecchio\\source\\repos\\patinhas_peludas\\patinhas_peludas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{808EE8C3-9298-4D98-A2CB-3B7C1086094A}|Patinhas_Peludas\\Patinhas_Peludas.csproj|solutionrelative:patinhas_peludas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{808EE8C3-9298-4D98-A2CB-3B7C1086094A}|Patinhas_Peludas\\Patinhas_Peludas.csproj|c:\\users\\ana.mafecchio\\documents\\github\\patinhas_peludas\\patinhas_peludas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{808EE8C3-9298-4D98-A2CB-3B7C1086094A}|Patinhas_Peludas\\Patinhas_Peludas.csproj|solutionrelative:patinhas_peludas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{808EE8C3-9298-4D98-A2CB-3B7C1086094A}|Patinhas_Peludas\\Patinhas_Peludas.csproj|C:\\Users\\ana.mafecchio\\source\\repos\\Patinhas_Peludas\\patinhas_peludas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{808EE8C3-9298-4D98-A2CB-3B7C1086094A}|Patinhas_Peludas\\Patinhas_Peludas.csproj|solutionrelative:patinhas_peludas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{808EE8C3-9298-4D98-A2CB-3B7C1086094A}|Patinhas_Peludas\\Patinhas_Peludas.csproj|C:\\Users\\ana.mafecchio\\Documents\\GitHub\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808EE8C3-9298-4D98-A2CB-3B7C1086094A}|Patinhas_Peludas\\Patinhas_Peludas.csproj|solutionrelative:Patinhas_Peludas\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,24 +34,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ana.mafecchio\\source\\repos\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ana.mafecchio\\Documents\\GitHub\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs",
               "RelativeDocumentMoniker": "Patinhas_Peludas\\Form1.cs",
-              "ToolTip": "C:\\Users\\ana.mafecchio\\source\\repos\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs",
+              "ToolTip": "C:\\Users\\ana.mafecchio\\Documents\\GitHub\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs",
               "RelativeToolTip": "Patinhas_Peludas\\Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T22:20:09.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ana.mafecchio\\source\\repos\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ana.mafecchio\\Documents\\GitHub\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs",
               "RelativeDocumentMoniker": "Patinhas_Peludas\\Form1.cs",
-              "ToolTip": "C:\\Users\\ana.mafecchio\\source\\repos\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\ana.mafecchio\\Documents\\GitHub\\Patinhas_Peludas\\Patinhas_Peludas\\Form1.cs [Design]",
               "RelativeToolTip": "Patinhas_Peludas\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T22:18:31.698Z",
